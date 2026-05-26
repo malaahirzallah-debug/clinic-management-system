@@ -44,6 +44,22 @@ This system was developed to replace manual clinic operations with a structured 
 - Patient statistics
 
 ---
+## 📸 System Screenshots
+
+### Main Menu
+![Main Menu](mainmenue.png)
+
+### Patients List
+![Patients](ShowPatiant.png)
+
+### Patient Visit
+![Visit](PatiantVisite.png)
+
+### Billing
+![Billing](billing.png)
+
+### Appointments
+![Appointments](appointments.png)
 
 ## ⚙️ Tech Stack
 
